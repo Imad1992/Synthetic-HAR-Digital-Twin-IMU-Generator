@@ -1,0 +1,1 @@
+# Synthetic-HAR-Digital-Twin-IMU-Generator
